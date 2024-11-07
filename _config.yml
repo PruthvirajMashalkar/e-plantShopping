@@ -1,0 +1,7 @@
+title: "E-Plant Shopping"
+description: "A platform for buying plants online"
+baseurl: "" # Leave empty if hosted at the root level of username.github.io
+url: "https://github.com/PruthvirajMashalkar/e-plantShopping/settings/pages"  # Replace with your GitHub Pages URL
+theme: jekyll-theme-primer  # Or any other theme you prefer
+
+# Other settings, such as plugins or custom configurations, can go here.
